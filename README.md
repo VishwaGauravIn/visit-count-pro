@@ -59,8 +59,8 @@
 
 | Formatting | Example URL | Preview |
 |--|--|--|
-| false	 | ```https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=false``` | ![](https://visitcount.itsvg.in/api/test?icon=0) |
-| true | ```https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=true``` | ![](https://visitcount.itsvg.in/api/test?icon=1) |
+| false	 | ```https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=false``` | ![](https://visitcount.itsvg.in/api/test?pretty=false) |
+| true | ```https://visitcount.itsvg.in/api?id=YOUR_ID&pretty=true``` | ![](https://visitcount.itsvg.in/api/test?pretty=true) |
 
 # FAQs
 
