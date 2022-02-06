@@ -80,7 +80,7 @@ You can use it anywhere. Use it on your Websites, Blog Pages, GitHub ReadMe, Not
 - Step 1: Go to https://visitcount.itsvg.in (this website) and tap on 'Analytics' or bar icon on the bottom right.
 - Step 2: Enter your Username.
 - Step 3: Tap on 'Check Analytics'
-Pro Tip: You can directly visit analytics page by bookmarking your analytics page or using this url "https://visitcount.itsvg.in/analytics?id=YOUR_USERNAME"
+Pro Tip: You can directly visit analytics page by bookmarking your analytics page or using this url "https://visitcount.itsvg.in/analytics/YOUR_USERNAME"
 
 ## Is it free?
 Yes, Visit Count is totally free to use and you can use all available features without any restrictions. You can donate if you like our product or you want to support us.
@@ -94,7 +94,7 @@ We have tried to keep it minimal as well as modern but if you want any other fea
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwaGauravIn)
 
 # Screenshot
-![](https://github.com/VishwaGauravIn/visit-count-pro/blob/main/assets/vcp_fc.png?raw=true)
+![](https://github.com/VishwaGauravIn/visit-count-pro/blob/main/assets/vcp_fc2.png?raw=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=visit-count-pro&label=Page%20Views&icon=4&color=9)](https://visitcount.itsvg.in)
